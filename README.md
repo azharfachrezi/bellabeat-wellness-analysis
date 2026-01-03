@@ -11,10 +11,10 @@
 
 ## Key Insights & Visualizations
 1.  **The "Weekend Warrior" Trend:** Users are most active on Saturdays and Tuesdays but drop off significantly on Sundays.
-![Activity Chart](activity_by_day.png)
+![Activity Chart](Visualization/activity_by_day.png)
 2.  **The Sedentary Cycle:** The average user spends **16 hours/day** sedentary.
 3.  **The Sleep Trade-off:** There is a strong negative correlation (**-0.60**) between sedentary time and sleep. Users aren't sleeping less because they are active; they are losing sleep to sedentary behavior.
-![Sleep vs. Sedentary](sedentay_vs_sleep.png)
+![Sleep vs. Sedentary](Visualization/sedentary_vs_sleep.png)
 
 ## Recommendations
 * **Wind-Down Alerts:** Introduce app notifications to break "sedentary loops" in the evening (7-9 PM).
